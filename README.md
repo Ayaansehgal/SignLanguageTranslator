@@ -33,6 +33,6 @@ This project is a real-time sign language translator built using Mediapipe for h
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/SignLanguageTranslator.git
+git clone https://github.com/Ayaansehgal/SignLanguageTranslator.git
 cd SignLanguageTranslator
 pip install -r requirements.txt
